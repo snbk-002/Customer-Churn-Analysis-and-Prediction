@@ -1,30 +1,33 @@
-# Customer-Churn-Analysis
+
+![Screenshot 2025-01-01 012429](https://github.com/user-attachments/assets/d8c56a60-7d55-4a55-ace6-e0849f0321bd)
+
+## Customer-Churn-Analysis
 
 ### Overview:
 
-This project provides an end-to-end solution for analyzing customer churn using Python. Churn analysis is critical for understanding why customers leave a business and helps in designing strategies to retain them.
+This project provides an end-to-end solution for analyzing customer churn of Telecom Industry using Python. Churn analysis is critical for understanding why customers leave a business and helps in designing strategies to retain them.
 
-#### Key Features:
+### Key Features:
 
-Data Cleaning: Handles missing values, outliers, and inconsistent data entries.
+1.Data Cleaning: Handles missing values, outliers, and inconsistent data entries.
 
-Exploratory Data Analysis (EDA): Unveils patterns and trends with visualizations.
+2.Exploratory Data Analysis (EDA): Unveils patterns and trends with visualizations.
 
-Feature Engineering: Transforms raw data into actionable features.
+3.Feature Engineering: Transforms raw data into actionable features.
 
-Predictive Modeling: Implements machine learning models (e.g., Logistic Regression, Random Forest, XGBoost) to predict customer churn.
+4.Predictive Modeling: Implements machine learning models (e.g., Decision Tree, Random Forest, PCA) to predict customer churn.
 
-Model Evaluation: Uses metrics like accuracy, precision, recall, F1-score, and AUC-ROC to evaluate model performance.
+5.Model Evaluation: Uses metrics like accuracy, precision, recall, F1-score, and AUC-ROC to evaluate model performance.
 
-Insights and Recommendations: Derives actionable insights to improve customer retention.
+6.Insights and Recommendations: Derives actionable insights to improve customer retention.
 
 ### Technologies Used:
 
-Python Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, imblearn
+->Python Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, imblearn
 
-Visualization Tools: Matplotlib, Seaborn
+->Visualization Tools: Matplotlib, Seaborn
 
-Machine Learning Framework: Scikit-learn
+->Machine Learning Framework: Scikit-learn
 
 ### Project Highlights:
 
@@ -33,6 +36,17 @@ A clean and modular codebase for easy reproducibility.
 Jupyter notebooks for step-by-step documentation of the analysis.
 
 Ready-to-use datasets for replicating the analysis.
+
+### Key drivers that influence churn:
+
+1. Handset loss/Upgrade
+   
+2. Network Quality
+   
+3. Competitive Pricing
+   
+4. Customer Care Quality
+
 
 ### Key Insights:
 
