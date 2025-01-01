@@ -51,9 +51,8 @@ Ready-to-use datasets for replicating the analysis.
 
 ###  Insights:
 
-
 1. Factors like *Gender*, *Availability of PhoneService* and *No of multiple lines* have alomost *NO* impact on Churn.
 
-2. *LOW* Churn is seens in case of *Long term contracts*, *Subscriptions without internet service* and *The customers engaged for 5+ years*
+2. **HIGH** Churn seen in case of  month to month contracts, no online security, no Tech support, first year of subscription and fibre Optics Internet.
 
 
