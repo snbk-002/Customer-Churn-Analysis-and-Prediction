@@ -48,18 +48,11 @@ Ready-to-use datasets for replicating the analysis.
 4. Customer Care Quality
 
 
-### Key Insights:
+###  Insights:
 
-1. Electronic check medium are the highest churners.
-   
-2. Contract Type - Monthly customers are more likely to churn because of no contract terms, as they are free to go customers.
-   
-3. No Online security, No Tech Support category are high churners.
-   
-4. Non senior Citizens are high churners
 
-5. Factors like *Gender*, *Availability of PhoneService* and *No of multiple lines* have alomost *NO* impact on Churn.
+1. Factors like *Gender*, *Availability of PhoneService* and *No of multiple lines* have alomost *NO* impact on Churn.
 
-6. *LOW* Churn is seens in case of *Long term contracts*, *Subscriptions without internet service* and *The customers engaged for 5+ years*
+2. *LOW* Churn is seens in case of *Long term contracts*, *Subscriptions without internet service* and *The customers engaged for 5+ years*
 
 
