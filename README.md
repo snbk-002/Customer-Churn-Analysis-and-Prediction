@@ -1,11 +1,12 @@
 
 ![Screenshot 2025-01-01 012429](https://github.com/user-attachments/assets/d8c56a60-7d55-4a55-ace6-e0849f0321bd)
 
-## Customer-Churn-Analysis
+## Customer-Churn-Analysis-and-Prediction
 
 ### Overview:
 
 This project provides an end-to-end solution for analyzing customer churn of Telecom Industry using Python. Churn analysis is critical for understanding why customers leave a business and helps in designing strategies to retain them.
+Churn is a key driver for EBITDA margin. a churned customer provides less revenue and increases competitor market share.
 
 ### Key Features:
 
