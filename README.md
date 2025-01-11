@@ -16,7 +16,7 @@ Churn is a key driver for EBITDA margin. a churned customer provides less revenu
 
 3.Feature Engineering: Transforms raw data into actionable features.
 
-4.Predictive Modeling: Implements machine learning models (e.g., Decision Tree, Random Forest, PCA) to predict customer churn.
+4.Predictive Modeling: Implements machine learning models (e.g., Decision Tree, Random Forest) to predict customer churn.
 
 5.Model Evaluation: Uses metrics like accuracy, precision, recall, F1-score, and AUC-ROC to evaluate model performance.
 
